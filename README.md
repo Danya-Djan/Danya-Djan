@@ -44,7 +44,7 @@ Hi there! 👋 I'm a passionate **Backend Developer** and **SOC Engineer**, dedi
 ## 🌱 About Me  
 - 🚀 Constantly exploring new technologies and applying them in real-world projects.  
 - 💡 Open to exciting projects and collaborations.  
-- ⚽ Football fan and Barcelona supporter.  
+- ⚽ Football fan and Liverpool supporter.  
 
 ---
 
